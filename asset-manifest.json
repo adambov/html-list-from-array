@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adambov/html-list-from-array.github.io/html-list-from-array/static/css/main.64e58854.css",
+    "main.js": "/adambov/html-list-from-array.github.io/html-list-from-array/static/js/main.2daf32f8.js",
+    "static/js/787.42ffb0c4.chunk.js": "/adambov/html-list-from-array.github.io/html-list-from-array/static/js/787.42ffb0c4.chunk.js",
+    "static/media/logo.svg": "/adambov/html-list-from-array.github.io/html-list-from-array/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adambov/html-list-from-array.github.io/html-list-from-array/index.html",
+    "main.64e58854.css.map": "/adambov/html-list-from-array.github.io/html-list-from-array/static/css/main.64e58854.css.map",
+    "main.2daf32f8.js.map": "/adambov/html-list-from-array.github.io/html-list-from-array/static/js/main.2daf32f8.js.map",
+    "787.42ffb0c4.chunk.js.map": "/adambov/html-list-from-array.github.io/html-list-from-array/static/js/787.42ffb0c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e58854.css",
+    "static/js/main.2daf32f8.js"
+  ]
+}
